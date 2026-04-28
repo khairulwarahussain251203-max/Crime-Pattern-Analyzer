@@ -25,7 +25,6 @@ This project combines:
 ## Folder Structure
 
 - `main.py` - Main application script (GUI + analysis + prediction logic)
-- `Project_Report.docx` - Project report/documentation
 - `requirements.txt` - Python dependency list
 - `README.md` - This file
 
@@ -172,7 +171,7 @@ The GUI window will open with all controls and visual actions.
 
 ## Known Limitations
 
-- Predicting city label via regression on encoded IDs is a simplified academic approach
+- Predicting city label via regression on encoded IDs is a simplified baseline approach
 - No geospatial mapping (latitude/longitude) is currently included
 - No advanced time-series model (e.g., ARIMA/Prophet/LSTM)
 - Data quality strongly affects insights and predictions
@@ -189,10 +188,4 @@ The GUI window will open with all controls and visual actions.
 
 This project currently has no explicit license file.
 Add a `LICENSE` file (for example MIT) if you want open-source reuse terms.
-
-## Authors
-
-According to the report:
-- Khair ul wara Hussain (FA23-BAI-022)
-- Arhum Fareed (FA23-BAI-006)
 
